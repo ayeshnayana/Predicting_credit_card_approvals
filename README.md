@@ -13,3 +13,6 @@ Where DisicianTree algorithms consistently provided AUC scores around 0.8-0.85.
 The comparison between DisicisionTree, XGB, and LGB models was provided in a box plot. 
 Finally, we used the ensemble voting method to obtain the ensemble model using DT, XGB, and LGB models. 
 We used accuracy scores to quantify the model performance.
+
+
+![feature_importance_xgb_2_9_2022](https://user-images.githubusercontent.com/42178947/201126900-6c769349-d405-4d33-a0b4-0c41e6fc2ad2.png)
