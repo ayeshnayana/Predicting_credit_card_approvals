@@ -18,3 +18,10 @@ We used accuracy scores to quantify the model performance.
 
 
 ![feature_importance_xgb_2_9_2022](https://user-images.githubusercontent.com/42178947/201126900-6c769349-d405-4d33-a0b4-0c41e6fc2ad2.png)
+
+Figure: The feature importance of each feature of XGB model
+
+
+![download](https://user-images.githubusercontent.com/42178947/201128341-8d6ca19c-6637-4f08-bebf-c598d9deba82.png)
+
+Figure: Comparison of DecisionTree, XGBM and LGB models. AUC score
