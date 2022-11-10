@@ -1,3 +1,5 @@
+![getty_466065785_9707049704500135_70707](https://user-images.githubusercontent.com/42178947/201127464-63409c64-9ba3-4be3-813f-de0ffbd51cbc.jpg)
+
 # Predicting_credit_card_approvals
 
 Predicting Credit Card Approvals¶
